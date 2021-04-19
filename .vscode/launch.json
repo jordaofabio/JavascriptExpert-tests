@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/modulo01/aula01-mocks/src/file.js"
+            "program": "${workspaceFolder}/modulo01/aula01-mocks/index.test.js"
         }
     ]
 }
