@@ -10,7 +10,10 @@ class File {
     static async csvToJson(filePath) {
         const content = await File.getFileContent(filePath);
         const validation = await File.isValid(content);
-        if (!validation.valid) throw new Error(validation.error);
+        if (!validation.valid) {
+            console.log('///////////////////////', validation.error)
+            throw new Error(validation.error);
+        }
 
         const users = File.parseCsvToJason(content)
         return users;
@@ -56,6 +59,7 @@ class File {
             }
             return new User(user);
         });
+        // console.log('Users >>>', users)
         return users;
     }
 }
