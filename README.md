@@ -16,3 +16,6 @@ Nesta aula foi usado um exemplo de um método recursivo que executado 5 vezes, p
 ## Aula 04 - Trabalhando com testes end-to-end (e2e) e Code Coverage
 - Testes end-to-end para testar a API do ponto de vista do usuário;
 - Para Code Coverage foi usado o [Istanbul](https://www.npmjs.com/package/nyc), que valida a cobertura dos códigos, fazendo relatório em texto e html.
+
+## Projeto prático
+Criação de um projeto prático para realizar TDD utilizando o Moca, Sinon e o Chai.
