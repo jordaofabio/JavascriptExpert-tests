@@ -17,7 +17,7 @@ Nesta aula foi usado um exemplo de um método recursivo que executado 5 vezes, p
 - Testes end-to-end para testar a API do ponto de vista do usuário;
 - Para Code Coverage foi usado o [Istanbul](https://www.npmjs.com/package/nyc), que valida a cobertura dos códigos, fazendo relatório em texto e html.
 
-## Aula 005 - Projeto prático
+## Aula 05 - Projeto prático
 Projeto prático, onde foi passada uma história para a desenvolvimento de um sistema.
 ### Parte 01
 Criação das classes base e criação automática dos mocks através de seeds, utilizando o [faker](https://www.npmjs.com/package/faker).
