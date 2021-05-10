@@ -1,5 +1,5 @@
 # JavascriptExpert
-Repositório pra armazenar os testes do curso Javascript Expert, do Erick Wendel.
+Repositório pra armazenar "demos" do curso Javascript Expert, do Erick Wendel.
 
 ## Aula 01 - Trabalhando com mocks
 Criação de mocks para realizar os primeiros testes.
